@@ -3,7 +3,9 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //-------------------------------------------------------------------------------
-
+using System;
+using System.Collections.Generic;
+/*CREA EL EQUIPAMIENTO CON EL COSTO DE HORA Y UNA DESCRIPCION DE LO QUE VA HACER*/
 namespace Full_GRASP_And_SOLID.Library
 {
     public class Equipment

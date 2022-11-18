@@ -3,7 +3,7 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //---------------------------------------------------------------------------------------
-
+/*CREA UN PRODUCTO CON UNA DESCRIPCION Y UN COSTO UNITARIO*/
 namespace Full_GRASP_And_SOLID.Library
 {
     public class Product

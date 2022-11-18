@@ -3,8 +3,9 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //-------------------------------------------------------------------------------
-
 namespace Full_GRASP_And_SOLID.Library
+/*CREA LOS PASOS PARA LA RECETA
+IMPLEMENTA EQUIPMENT Y PRODUCT*/
 {
     public class Step
     {
